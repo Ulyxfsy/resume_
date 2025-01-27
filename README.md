@@ -1,4 +1,5 @@
 # resume_
+
 ## Hi, I'm Syifaa!
 
 👩🏻‍💻 2nd Year Cybersecurity Student<br/>
@@ -12,14 +13,6 @@
 - **Cybersecurity Tools:** Wireshark 
 - **Networking Concepts:** IP Configuration, Network Segmentation, TCP/IP  
 - **Other Skills:** Git/GitHub, 
-
-## 🌟 Featured Projects
-- [**Data Encryption and Decryption with AES**](https://github.com/yourusername/project-link)  
-  *Developed a tool to encrypt and decrypt a simple data with AES, leveraging Python cryptography libraries*
-
-- [**Password Manager with Encryption**](https://github.com/yourusername/project-link)  
-  *Built a secure password manager that encrypts and stores credentials, leveraging Python cryptography libraries.*
-
 
 ## 📫 Get in Touch
 - **Email:** susyifaa@gmail.com  
